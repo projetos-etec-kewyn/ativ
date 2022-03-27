@@ -1,0 +1,42 @@
+body{
+    background-color: bisque;
+}
+
+h1,h2{ 
+    text-align: center;
+    font-size:  50px;
+}
+h1{
+
+    font-size: 60px;
+    color: rgb(19, 91, 109);
+}
+p,li{
+    font-size: 25px;
+}
+#p{
+    text-align: center;
+    color: red;
+}
+#p:hover{
+    font-size: 40px;
+}
+h3{
+    text-align: center;
+    font-size: 30px;
+    color: darkcyan;
+}
+
+#d{
+    text-align: center;
+}
+img{
+    width: 750px;
+
+}
+
+footer{
+    text-align: center;
+    color: black;
+    margin-top: 20px;
+}
